@@ -19,6 +19,12 @@ function App() {
           Learn React
         </a>
       </header>
+      <aside>
+        {/* Links Goes Here */}
+      </aside>
+      <main>
+        {/* Main Content goes here */}
+      </main>
     </div>
   );
 }
